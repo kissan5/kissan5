@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I’m Kishan, a passionate Web Developer and UI/UX Designer with a knack for creating user-friendly, scalable, and visually appealing web applications.
 
+Here’s what I’m up to:
 
-**kissan5/kissan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+🔭 I’m currently working on exciting projects like a Spotify Clone, Food Ordering Website, and Doctor Appointment Platform.
+🌱 I’m currently sharpening my skills in React.js, Node.js, and UI/UX design principles.
+👯 I’m looking to collaborate on full-stack development projects and responsive web designs.
+🤔 I’m exploring ways to integrate cutting-edge technologies into web applications, like AI tools and real-time features.
+💬 Ask me about frontend development, design systems, or optimizing user experiences!
+📫 How to reach me: [kissanshaa@gmail.com /LinkedIn [https://www.linkedin.com/in/kishan-sah-9889651a0/] /Github[github.com/kissan5]
+⚡ Fun fact: When I’m not coding, I’m crafting sleek graphic designs or diving into the latest trends in digital marketing!
+Let’s connect and create something amazing! 🌟
