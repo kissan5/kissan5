@@ -8,6 +8,6 @@ Here’s what I’m up to:
 👯 I’m looking to collaborate on full-stack development projects and responsive web designs.
 🤔 I’m exploring ways to integrate cutting-edge technologies into web applications, like AI tools and real-time features.
 💬 Ask me about frontend development, design systems, or optimizing user experiences!
-📫 How to reach me: [kissanshaa@gmail.com /LinkedIn [https://www.linkedin.com/in/kishan-sah-9889651a0/] /Github[]([[url]()](https://github.com/kissan5)
+📫 How to reach me: [kissanshaa@gmail.com /LinkedIn [https://www.linkedin.com/in/kishan-sah-9889651a0/] /Github(https://github.com/kissan5)
 ⚡ Fun fact: When I’m not coding, I’m crafting sleek graphic designs or diving into the latest trends in digital marketing!
 Let’s connect and create something amazing! 🌟
