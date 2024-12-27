@@ -3,7 +3,7 @@ I’m Kishan – a Web Developer and UI/UX Designer passionate about building sc
 
 🌟 Current Focus:
 Working on React.js projects like a Spotify Clone, Food Ordering Website, and Doctor Appointment Platform.
-Exploring Node.js and advanced UI/UX design principles.
+Exploring Node.js and advanced UI/UX design principles.<br>
 🤝 Open to Collaborate:
 Full-stack development and responsive web design.
 Integrating innovative features like AI tools and real-time functionality.
